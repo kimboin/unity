@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C650BE8D-5627-B7F0-C0C8-2F50D206220C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/controller.cs">
+    <Files>
+      <File FileName="Assets/watchManager.cs" Line="23" Column="46" />
+      <File FileName="Assets/watchManager02.cs" Line="12" Column="14" />
+      <File FileName="Assets/controller.cs" Line="19" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARWatch" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="463acb7b-c380-414b-b65b-4bce950a86c2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

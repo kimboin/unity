@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E23073C0-ACCE-8DF1-B0C2-CE280F2C2C3B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Region_Capture/Scripts/Editor/RegionCaptureEditor.cs">
+    <Files>
+      <File FileName="Assets/Region_Capture/Scripts/Editor/RegionCaptureEditor.cs" Line="80" Column="91" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARProject02" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Region_Capture" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="RegionCaptureEditor.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="16b78f18-b606-4d03-a326-800e19b68470" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

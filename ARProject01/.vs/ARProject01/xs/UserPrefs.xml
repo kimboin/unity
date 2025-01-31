@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1E751888-97A3-AC28-5EEE-C70D87754A87}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/doorOpen.cs">
+    <Files>
+      <File FileName="Assets/doorOpen.cs" Line="30" Column="2" />
+      <File FileName="Assets/doorOpen.cs" Line="30" Column="2" />
+      <File FileName="Assets/doorOpen.cs" Line="20" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARProject01" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="doorOpen.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bfd9d313-980f-4f11-9adc-c4c4eea60ac5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

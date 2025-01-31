@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="watch02" version="3.0" targetId="25c0acc39a3b4f119d698606bce5ac0a" sideLength="151.000000" topDiameter="162.970001" bottomDiameter="162.970001" sideImage="watch02.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
