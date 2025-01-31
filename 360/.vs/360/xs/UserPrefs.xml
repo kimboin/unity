@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F784C615-A9B7-49EF-1685-A34CA2140CD4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/videoPlayManager.cs">
+    <Files>
+      <File FileName="Assets/videoPlayManager.cs" Line="27" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="360" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GoogleVR" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="videoPlayManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ad82759f-1074-4de2-bab6-0c111389d8fc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
