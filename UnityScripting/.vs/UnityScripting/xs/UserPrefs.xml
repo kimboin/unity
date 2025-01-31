@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7CBFFB9B-46C0-3678-2D06-23E88B9281BC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script02.cs">
+    <Files>
+      <File FileName="Assets/script01.cs" Line="17" Column="25" />
+      <File FileName="Assets/script02.cs" Line="66" Column="39" />
+      <File FileName="Assets/script03.cs" />
+      <File FileName="Assets/bullet.cs" Line="10" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityScripting" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script02.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7d7110b-2109-447b-9dd5-517e8bdd03c3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
